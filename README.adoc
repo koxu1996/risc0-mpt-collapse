@@ -8,7 +8,7 @@ This repository is an effort to:
 - Point out operations performed by `risc0-ethereum-trie`.
 - Cross-check these cases against `alloy-trie` implementation.
 
-TIP: You can reproduce all results by running `cargo test` - all the scenarios below are implemented as https://github.com/zenith-network/risc0-mpt-collapse/blob/master/src/lib.rs[unit tests].
+TIP: You can reproduce all results by running `cargo test` - all the scenarios below are implemented as link:src/lib.rs[unit tests].
 
 == Test Scenarios
 
